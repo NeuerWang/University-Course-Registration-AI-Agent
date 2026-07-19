@@ -1,0 +1,17 @@
+# Dependency directories
+vendor/
+
+# Environment files
+*.env
+
+# Binaries and test outputs
+*.exe
+*.out
+*.test
+*.log
+
+# ChromaDB persistence folder
+chromadb/
+
+# Mac/System
+.DS_Store
